@@ -11,7 +11,7 @@ Pour l'instant, l'attribution de la catégorie d'un article est effectuée manue
 Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
 
 ## Les données
-Jeu de données d’articles avec le lien pour télécharger la photo et une description associée.
+Jeu de données d’articles avec le [lien](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip) pour télécharger la photo et une description associée.
 
 ## Mission
 - réaliser une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article.
