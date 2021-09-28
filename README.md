@@ -32,6 +32,10 @@ Les résultats du clustering seront présentés sous la forme d’une représent
 ![P6_NLP_3](https://user-images.githubusercontent.com/71518818/135126086-4de28394-c39a-497c-82c3-876f4d48653a.png)
 ![P6_NLP_4](https://user-images.githubusercontent.com/71518818/135126262-cc08bef4-5c02-4cf0-94a6-165ffd53e8be.png)
 ![P6_NLP_5](https://user-images.githubusercontent.com/71518818/135126152-e9c315d1-8975-4652-a028-1003b930fc62.png)
+![P6_NLP_6](https://user-images.githubusercontent.com/71518818/135127835-54eec882-bdad-404e-8840-500355be1f1f.png)
+![P6_NLP_7](https://user-images.githubusercontent.com/71518818/135127894-d2c62948-56d5-4210-8ad8-d1e81a58a24a.png)
+![P6_NLP_8](https://user-images.githubusercontent.com/71518818/135127925-bc2f33ed-7b4c-4dba-b5ac-7867fb66bb96.png)
+
 
 **IMAGES**
 ******
