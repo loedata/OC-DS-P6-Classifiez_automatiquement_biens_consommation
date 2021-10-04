@@ -10,8 +10,12 @@ Pour l'instant, l'attribution de la catégorie d'un article est effectuée manue
 
 Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
 
-## Les données
+## Source
 Jeu de données d’articles avec le [lien](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip) pour télécharger la photo et une description associée.
+
+## Boîte à outils
+
+![P6_outils](https://user-images.githubusercontent.com/71518818/135907020-3d185d05-d5d4-4ebe-b3ab-082fa8e820dc.png)
 
 ## Mission
 - réaliser une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article.
@@ -54,3 +58,15 @@ Les résultats du clustering seront présentés sous la forme d’une représent
 **COMBINAISON TEXTE &IMAGES**
 ******
 ![P6_COMBI](https://user-images.githubusercontent.com/71518818/135126632-7ede28fb-21be-4693-ad57-12f816e64015.png)
+
+## Compétences
+- Prétraiter des données image pour obtenir un jeu de données exploitable.
+- Prétraiter des données texte pour obtenir un jeu de données exploitable.
+- word2vec, doc2vec, BERT, USE, ZERO-SHOT-LEARNING.
+- Représenter graphiquement des données à grandes dimensions. 
+- Mettre en œuvre des techniques de réduction de dimension.
+
+## Évaluation
+
+![P6_eval_1](https://user-images.githubusercontent.com/71518818/135907326-f03fc87d-71b4-44fc-9bdf-5e1d244afe48.png)
+![P6_eval_2](https://user-images.githubusercontent.com/71518818/135907406-86b08011-51ad-4e99-bf62-840a56fcc1b8.png)
